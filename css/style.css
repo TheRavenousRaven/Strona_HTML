@@ -1,0 +1,203 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+}
+
+#baner {
+    height: 15%;
+    background-color: #000000;
+}
+#znak {
+    float: left;
+    height: 100%;
+}
+
+#logo {
+    position: relative;
+    margin-left: 30%;
+    height: 100%;
+}
+
+#znak2 {
+    float: right;
+    height: 100%;
+}
+
+#main {
+    text-align: justify;
+    color: white;
+    float: left;
+    width: 80%;
+    height: 80%;
+    background-color: #2b282b;
+}
+
+#opis {
+    margin-left: 25%;
+}
+
+ul {
+    margin-left: 30%;
+}
+
+#hunter_main_img {
+    position: relative;
+    left: 200px;
+}
+
+#historia {
+    background-image: url("hellwood_baner.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    text-align: justify;
+    color: white;
+    float: left;
+    width: 80%;
+    height: 80%;
+    background-color: #000000;
+    overflow: auto;
+
+}
+
+#dyskografia {
+    text-align: justify;
+    color: white;
+    float: left;
+    width: 80%;
+    height: 80%;
+    background-color: #2b282b;
+    overflow: auto;
+}
+
+#dyskimg {
+    position: static;
+    margin-left:20%;
+}
+
+#data {
+    text-align:center;
+}
+
+ol {
+    margin-left: 40%;
+}
+
+#galeria {
+    text-align: justify;
+    color: white;
+    float: left;
+    width: 80%;
+    height: 80%;
+    background-color: #2b282b;
+    overflow: auto;
+}
+#obraz {
+    margin-left:20%;
+    margin-top:8%;
+}
+
+#teledyski {
+    text-align: center;
+    color: white;
+    float: left;
+    width: 80%;
+    height: 80%;
+    background-color: #2b282b;
+    overflow: auto;
+}
+
+#tekst-kiedy {
+    display: none;
+}
+
+#tekst-teli {
+    display: none;
+}
+
+#tekst-pomiedzy {
+    display: none;
+}
+
+#tekst-strasznik {
+    display: none;
+}
+
+#tekst-labirynt {
+    display: none;
+}
+
+#tekst-trumian {
+    display: none;
+}
+
+#tekst-psi {
+    display: none;
+}
+
+#tekst-uboju {
+    display: none;
+}
+
+#tekst-niewesolowski {
+    display: none;
+}
+
+#tekst-kim {
+    display: none;
+}
+
+#tekst-arachne {
+    display: none;
+}
+
+#tekst-bugi {
+    display: none;
+}
+
+#tekst-doom {
+    display: none;
+}
+
+#koncerty {
+    text-align: justify;
+    color: white;
+    float: left;
+    width: 80%;
+    height: 80%;
+    background-color: #2b282b;
+    overflow: auto;
+}
+
+#menu {
+    text-align: center;
+    font-size: 35px;
+    float: right;
+    width: 20%;
+    height: 80%;
+    background-color: #808080;
+}
+
+a.option:link {
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+}
+
+a.option:visited {
+    text-decoration: none;
+    color: #521616;
+    cursor: pointer;
+}
+
+a.option:hover {
+    color: #ff0000;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+#stopka {
+    background-color: #000000;
+    color: white;
+    clear: both;
+    height: 5%;
+}
